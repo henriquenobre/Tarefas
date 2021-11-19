@@ -8,12 +8,12 @@ const App = () => {
   const [tasks, setTasks] = useState([
     {
       id: "1",
-      title: "Estudar React",
+      title: "Exemplo de tarefa marcada como realizada",
       completed: true,
     },
     {
       id: "2",
-      title: "Estudar React-Native",
+      title: "Exemplo de tarefa não marcada",
       completed: false,
     },
   ]);
