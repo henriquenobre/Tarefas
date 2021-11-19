@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Tarefas/static/css/main.1981a1ab.chunk.css",
-    "main.js": "/Tarefas/static/js/main.63f12fdd.chunk.js",
-    "main.js.map": "/Tarefas/static/js/main.63f12fdd.chunk.js.map",
+    "main.css": "/Tarefas/static/css/main.0ea5249a.chunk.css",
+    "main.js": "/Tarefas/static/js/main.44a53f8e.chunk.js",
+    "main.js.map": "/Tarefas/static/js/main.44a53f8e.chunk.js.map",
     "runtime-main.js": "/Tarefas/static/js/runtime-main.7f0a3dea.js",
     "runtime-main.js.map": "/Tarefas/static/js/runtime-main.7f0a3dea.js.map",
     "static/js/2.01825185.chunk.js": "/Tarefas/static/js/2.01825185.chunk.js",
     "static/js/2.01825185.chunk.js.map": "/Tarefas/static/js/2.01825185.chunk.js.map",
     "index.html": "/Tarefas/index.html",
-    "static/css/main.1981a1ab.chunk.css.map": "/Tarefas/static/css/main.1981a1ab.chunk.css.map",
+    "static/css/main.0ea5249a.chunk.css.map": "/Tarefas/static/css/main.0ea5249a.chunk.css.map",
     "static/js/2.01825185.chunk.js.LICENSE.txt": "/Tarefas/static/js/2.01825185.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7f0a3dea.js",
     "static/js/2.01825185.chunk.js",
-    "static/css/main.1981a1ab.chunk.css",
-    "static/js/main.63f12fdd.chunk.js"
+    "static/css/main.0ea5249a.chunk.css",
+    "static/js/main.44a53f8e.chunk.js"
   ]
 }
